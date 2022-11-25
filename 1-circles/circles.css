@@ -1,0 +1,25 @@
+.circles-container {
+  display: flex;
+  
+  
+}
+
+.circle1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: red;
+    left:10px;
+  right:10px;
+  position: absolute;
+
+}
+
+.circle2 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left:150px;
+    border-radius: 50%;
+    background-color: blue;
+  }

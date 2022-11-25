@@ -1,0 +1,47 @@
+.total-container {
+  display: flex;
+}
+.rectangle {
+  width: 400px;
+  height: 250px;
+  margin-top: 200px;
+  margin-left: 200px;
+  border: 2px solid black;
+}
+
+.square1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: -40px;
+  top: -30px;
+  margin-top: 200px;
+  margin-left: 200px;
+  border: 2px solid black;
+}
+.square2 {
+  width: 100px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+    top:230px;
+  border: 2px solid black;
+}
+.square3 {
+    width: 100px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+      top:0px;
+      left:400px;
+    border: 2px solid black;
+  }
+  .square4 {
+    width: 100px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+      top:-235px;
+    border: 2px solid black;
+  }
+
